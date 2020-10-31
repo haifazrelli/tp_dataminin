@@ -1,0 +1,9 @@
+name: example-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-image
+  - scikit-learn
+  - matplotlib
+  - opencv
